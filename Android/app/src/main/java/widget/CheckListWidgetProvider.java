@@ -9,8 +9,8 @@ import android.net.Uri;
 import android.widget.RemoteViews;
 import android.widget.Toast;
 
-import io.github.project_travel_mate.R;
-import io.github.project_travel_mate.utilities.ChecklistActivity;
+import artefact.student.city_guide.R;
+import artefact.student.city_guide.utilities.ChecklistActivity;
 
 /**
  * Created by Santosh on 11/09/2018.

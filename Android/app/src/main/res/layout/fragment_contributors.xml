@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".utilities.ContributorsFragment">
+    tools:context="artefact.student.city_guide.utilities.ContributorsFragment">
 
     <LinearLayout
         android:id="@+id/contributors_footer"

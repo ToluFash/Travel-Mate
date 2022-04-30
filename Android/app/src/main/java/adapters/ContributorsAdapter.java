@@ -15,7 +15,7 @@ import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import io.github.project_travel_mate.R;
+import artefact.student.city_guide.R;
 import objects.Contributor;
 import utils.CircleImageView;
 

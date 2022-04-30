@@ -27,7 +27,7 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewOutlineProvider;
 
-import io.github.project_travel_mate.R;
+import artefact.student.city_guide.R;
 
 public class CircleImageView extends android.support.v7.widget.AppCompatImageView {
 

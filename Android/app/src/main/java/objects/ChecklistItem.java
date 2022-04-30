@@ -5,7 +5,7 @@ import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;
 import android.arch.persistence.room.TypeConverters;
 
-import io.github.project_travel_mate.roompersistence.BooleanConverter;
+import artefact.student.city_guide.roompersistence.BooleanConverter;
 
 /**
  * Model class for checklist item

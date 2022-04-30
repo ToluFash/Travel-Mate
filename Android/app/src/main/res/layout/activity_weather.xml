@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#343434"
     android:fillViewport="true"
-    tools:context=".destinations.description.WeatherActivity">
+    tools:context="artefact.student.city_guide.destinations.description.WeatherActivity">
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/animation_view"

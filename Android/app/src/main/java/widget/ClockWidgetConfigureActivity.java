@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 import java.util.TimeZone;
 
-import io.github.project_travel_mate.R;
+import artefact.student.city_guide.R;
 
 /**
  * The configuration screen for the {@link ClockWidget ClockWidget} AppWidget.

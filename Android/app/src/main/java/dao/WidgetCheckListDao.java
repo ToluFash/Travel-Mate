@@ -9,7 +9,7 @@ import android.arch.persistence.room.TypeConverters;
 
 import java.util.List;
 
-import io.github.project_travel_mate.roompersistence.BooleanConverter;
+import artefact.student.city_guide.roompersistence.BooleanConverter;
 import objects.ChecklistItem;
 
 /**

@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".utilities.AddBugFragment">
+    tools:context="artefact.student.city_guide.utilities.AddBugFragment">
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
@@ -14,7 +14,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical"
         android:padding="16dp"
-        tools:context=".utilities.BugReportFragment">
+        tools:context="artefact.student.city_guide.utilities.BugReportFragment">
 
         <TextView
             android:layout_width="match_parent"

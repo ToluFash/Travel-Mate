@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Travel Mate</string>
+    <string name="app_name">City Guide</string>
 
-    <string name="navigation_drawer_open">Travel Guide</string>
-    <string name="navigation_drawer_close">Travel Guide</string>
+    <string name="navigation_drawer_open">City Guide</string>
+    <string name="navigation_drawer_close">City Guide</string>
 
     <!--Drawer Strings -->
     <string name="navigation_drawer_destination">Destinations</string>
@@ -141,7 +141,7 @@
     <!-- Share contact strings -->
     <string name="share_intent_text">Share Contact Details</string>
     <string name="share_menu">Share</string>
-    <string name="share_contact_qr">Hey! Here is my contact information. Shared Using Travel Mate app. Download it from Play Store : https://play.google.com/store/apps/details/?id=io.github.project.project_travel_mate</string>
+    <string name="share_contact_qr">Hey! Here is my contact information. Shared Using  app. Download it from Play Store : https://play.google.com/store/apps/details/?id=io.github.project.project_travel_mate</string>
     <string name="view_contact">View someone\'s Contact</string>
     <string name="bottom_info_string">Share this code with the people to share your contact details.</string>
 
@@ -204,7 +204,7 @@
     <string name="text_share_profile">Share my profile</string>
     <string name="snackbar_no_share_app">No application to share.</string>
     <string name="share_chooser">Select app to send message…</string>
-    <string name="share_profile_text">Hi! Checkout my Travel Mate profile: </string>
+    <string name="share_profile_text">Hi! Checkout my  profile: </string>
     <string name="status_updated">Status has been updated</string>
     <string name="cities_travelled">Cities visited </string>
     <string name="email_not_verified">Your email id is not verified</string>
@@ -282,10 +282,10 @@
     <string name="no_notifications">You don\'t have any notifications.</string>
     <string name="mark_all_read_notifications">Do you want to mark all notifications as read?</string>
 
-    <string name="share_fun_fact">Hey! Checkout this fun fact, seems interesting! I find this on Travel Mate app. Download it from Play Store :
-    https://play.google.com/store/apps/details?id=io.github.project_travel_mate.</string>
-    <string name="share_daily_quote">Hey! Checkout this quote, seems interesting! I find this on Travel Mate app. Download it from Play Store :
-    https://play.google.com/store/apps/details?id=io.github.project_travel_mate.</string>
+    <string name="share_fun_fact">Hey! Checkout this fun fact, seems interesting! I find this on  app. Download it from Play Store :
+    https://play.google.com/store/apps/details?id=artefact.student.city_guide.</string>
+    <string name="share_daily_quote">Hey! Checkout this quote, seems interesting! I find this on  app. Download it from Play Store :
+    https://play.google.com/store/apps/details?id=artefact.student.city_guide.</string>
     <string name="reject_daily_quotes">Don\'t Show Again</string>
     <string name="daily_quote">Daily Quote</string>
     <string name="continue_button">Continue</string>
@@ -332,14 +332,14 @@
     <string name="remove_photo">Remove photo</string>
     <string name="choose_an_option">Choose an option</string>
     <string name="remove_profile_picture">Do you want to remove profile picture?</string>
-    <string name="delete_account">Are you sure you want to remove your travel mate account? This action can\'t be undone.</string>
+    <string name="delete_account">Are you sure you want to remove your  account? This action can\'t be undone.</string>
 
     <string name="done_label">Done</string>
     <string name="delete_label">Delete Account</string>
     <!-- About us strings -->
     <string name="email_hello">Hello</string>
     <string name="email_send">Send Email</string>
-    <string name="share_text">Hi! I found out this app for the travellers. Do download it : https://play.google.com/store/apps/details?id=io.github.project_travel_mate</string>
+    <string name="share_text">Hi! I found out this app for the travellers. Do download it : https://play.google.com/store/apps/details?id=artefact.student.city_guide</string>
 
     <!-- Restaurants strings -->
     <string name="sort">Sort</string>

@@ -16,8 +16,8 @@ import java.util.List;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import io.github.project_travel_mate.R;
-import io.github.project_travel_mate.utilities.helper.FlagHelper;
+import artefact.student.city_guide.R;
+import artefact.student.city_guide.utilities.helper.FlagHelper;
 
 public class TimezoneAdapter extends ArrayAdapter<String> {
 

@@ -10,7 +10,7 @@ import java.util.List;
 
 import flipviewpager.utils.FlipSettings;
 import flipviewpager.view.FlipViewPager;
-import io.github.project_travel_mate.R;
+import artefact.student.city_guide.R;
 
 /**
  * @author Yalantis

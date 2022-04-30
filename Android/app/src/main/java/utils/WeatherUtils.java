@@ -29,7 +29,7 @@ public class WeatherUtils {
         String suffix = getSuffix(context, code);
         imageDrawable += "_" + suffix;
 
-        return context.getResources().getIdentifier(imageDrawable, "drawable", "io.github.project_travel_mate");
+        return context.getResources().getIdentifier(imageDrawable, "drawable", "artefact.student.city_guide");
     }
 
     /**

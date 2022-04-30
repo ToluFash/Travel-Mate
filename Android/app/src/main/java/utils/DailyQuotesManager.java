@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
-import io.github.project_travel_mate.utilities.QuotesActivity;
+import artefact.student.city_guide.utilities.QuotesActivity;
 
 public class DailyQuotesManager {
 

@@ -8,7 +8,7 @@ import android.widget.RemoteViewsService.RemoteViewsFactory;
 
 import java.util.ArrayList;
 
-import io.github.project_travel_mate.R;
+import artefact.student.city_guide.R;
 import objects.ChecklistItem;
 
 /**

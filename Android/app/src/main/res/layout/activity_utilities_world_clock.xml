@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:context=".utilities.WorldClockActivity">
+        tools:context="artefact.student.city_guide.utilities.WorldClockActivity">
 
         <android.support.constraint.ConstraintLayout
             android:layout_width="match_parent"
@@ -43,7 +43,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/clock_analog" />
 
-            <io.github.project_travel_mate.utilities.CustomAnalogClock
+            <artefact.student.city_guide.utilities.CustomAnalogClock
                 android:id="@+id/clock_analog"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"

@@ -5,7 +5,7 @@ import android.content.res.TypedArray;
 import android.text.SpannableStringBuilder;
 import android.util.AttributeSet;
 
-import io.github.project_travel_mate.R;
+import artefact.student.city_guide.R;
 
 public class ExpandableTextView extends android.support.v7.widget.AppCompatTextView {
 

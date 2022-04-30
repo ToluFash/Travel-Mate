@@ -40,7 +40,7 @@
             android:paddingTop="@dimen/list_item_spacing_half"
             android:paddingBottom="@dimen/list_item_spacing_half"
             app:layoutManager="android.support.v7.widget.LinearLayoutManager"
-            tools:context=".searchcitydialog.CitySearchBottomSheetDialogFragment"
+            tools:context="artefact.student.city_guide.searchcitydialog.CitySearchBottomSheetDialogFragment"
             tools:listitem="@layout/search_list_item"
             tools:itemCount="3"/>
 

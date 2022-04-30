@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context=".destinations.description.CityHistoryActivity">
+    tools:context="artefact.student.city_guide.destinations.description.CityHistoryActivity">
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/animation_view"
